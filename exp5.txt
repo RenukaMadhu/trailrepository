@@ -1,2 +1,2 @@
 Hello, to the GIT Lab
-Today is tuesday
+Welcome to the exp5
